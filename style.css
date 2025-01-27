@@ -1,0 +1,36 @@
+h1 {
+    background-color: rgb(102, 53, 102);
+    text-align: center;
+    box-shadow: 0px 5px 5px black;
+}
+
+p {
+    color: pink;
+    text-align: center;
+    font-weight: 900;
+
+}
+
+.cat {
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
+
+.img_text {
+    text-align: center;
+    color: rgb(132, 0, 255);
+}
+
+.las {
+    position: relative;
+    background-color: transparent;
+    border: 2px solid rgb(126, 173, 227);
+    color: rgb(171, 16, 16);
+    font-weight: 700;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: 2px solid transparent;
+    outline-offset: 3px;
+    transition: background-color .2s ease-in-out, color .2s ease-in-out;
+}
